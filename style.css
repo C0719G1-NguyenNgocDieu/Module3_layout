@@ -1,0 +1,50 @@
+.main{
+    font-family: Chilanka;
+    width: 100%;
+    text-align: center;
+}
+.head{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    border: solid 1px black;
+    margin-bottom: 5px;
+}
+.head-link{
+    background-color: antiquewhite;
+    height: 40px;
+    width: 100%;
+    border: solid 1px black;
+    margin-bottom: 5px;
+}
+.left{
+    background-color: blue;
+    width: 10%;
+    height: 500px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: solid 1px black;
+    float: left;
+}
+.content{
+    background-color: blueviolet;
+    width: 80%;
+    height: 500px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: solid 1px black;
+    float: left;
+}
+.right{
+    background-color: chocolate ;
+    width: 8.9%;
+    height: 500px;
+    margin-bottom: 5px;
+    border: solid 1px black;
+    float: left;
+}
+.footer{
+    background-color: cyan;
+    border: solid 1px black;
+    clear: both;
+}
